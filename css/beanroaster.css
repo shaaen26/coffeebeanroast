@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image {
+    width:"15%";
+
+}
+
+#imageFile {
+    width:"61%"
+}
+
+#image {
+    width:"24%";
+    align:"center";
+}
+
+#colour {
+    width:"80%";
+}
+
+#colourImage {
+    width:"20%";
+    align:"left;
+}
+
+#Comments {
+    align:"center";
+}
